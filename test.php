@@ -44,6 +44,10 @@ for($a = 0; $a <= 100; $a++){
 echo $total;
 
 
+/*ここから下は
+課題部分です*/
+
+
 
 $name = "kazuyuki";
 if ($name == "kazuyuki"){
@@ -81,3 +85,4 @@ for($i = $start; $i < $end; $i++){
 }
 
 
+/*  echo "\n";  は改行*/
